@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avinav
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Development in Kotlin and soon to become a active Contributor to Open Source
+- 🌱 I’m currently learning Android Development in Kotlin and soon to become an active Contributor to Open Source
 - 💞️ I’m looking to collaborate on Android Projects in Kotlin
 - 📫 How to reach me Twitter or Linkedin 
 
